@@ -24,4 +24,4 @@ displays a list of characters.
   your CSS styles in the `./styles.css` file.
 - Take a screenshot/gif/video of your work and attach it to your submission to showcase your application.
 
-#### [Click to see the attached starter project]().
+#### [Click to see the attached starter project](https://github.com/orjwan-alrajaby/gsg-QA-Nablus-training-2023/tree/main/learning-sprint-1/week1%20-%20javascript-from-first-steps-to-professional/day%206/rick%26MortyStarter).
